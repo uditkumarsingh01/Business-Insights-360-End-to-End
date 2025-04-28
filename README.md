@@ -34,8 +34,6 @@ This project demonstrates a full analytics workflow from raw data cleaning to ad
 
 ## 📸 Dashboards Preview
 ![image](https://github.com/user-attachments/assets/4f0d408d-d76b-4b88-ac99-74a0b83d518a)
-![image](https://github.com/user-attachments/assets/74f7aa28-7c8c-402b-ac08-a6e28d662896)
-![image](https://github.com/user-attachments/assets/3ef33794-4a19-4d69-bfee-3f9c7287f325)
 
 ## How to Run This Project
 1. Use SQL scripts to clean and prepare the data.
